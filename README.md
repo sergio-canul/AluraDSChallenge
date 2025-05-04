@@ -27,7 +27,7 @@ Este proyecto es un desafío para practicar el análisis de datos, usando python
 * Matplotlib
 
 ## Como ejecutar el proyecto?
-1. Abre el archivo ['Archivo base'](/AluraStoreLatam.ipynb) puedes darle click en Google Colab arriba a la izquierda o descargarlo y ejecutarlo a parte.
+1. Abre el archivo ['AluraStoreLatam'](/AluraStoreLatam.ipynb) puedes darle click en Google Colab arriba a la izquierda o descargarlo y ejecutarlo a parte.
 2. Ejecuta primero la importación completa de la base de datos.
 3. Ejecuta linea por linea los codigos en orden, para evitar problemas.
 
